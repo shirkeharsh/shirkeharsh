@@ -1,5 +1,4 @@
-![Name](Hello(1).gif)
-![Name](Namevid.png)
+HARSH SHIRKE
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
