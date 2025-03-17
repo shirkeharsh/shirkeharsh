@@ -1,10 +1,9 @@
 HARSH SHIRKE
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/manumanoj0010) ![GitHub User's stars](https://img.shields.io/github/stars/manumanoj0010)
 
-- 🔭 Student
 - 🌱 PG in MCA
-- 🔍 Deep learning c#,c++ linux
-- 💬 Ask me about AWS, VPS ,Data Structures in C++, JavaScript ,VCS and Personal Branding</strong>
+- 🔍 Base knowledge about C C++ C# DotNET HTML CSS JAVA PYTHON 
+- 💬 Ask me about AWS, VPS ,Cloud Computing, Familiar with Linux</strong>
 - ⚡ Fun fact: I can talk 24/7 about Fps games.
 
 ### Tools I work upon : 🛠*
