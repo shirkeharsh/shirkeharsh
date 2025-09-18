@@ -1,52 +1,55 @@
-# Harsh Shirke
+# Harsh Shirke  
 
-### 👋 Welcome to my GitHub profile!  
-
-![Profile views](https://komarev.com/ghpvc/?username=shirkeharsh&label=Profile%20views&color=0e75b6&style=flat)  
-![GitHub followers](https://img.shields.io/github/followers/shirkeharsh?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/shirkeharsh?style=social)  
+🌐 [harshshirke.site](https://harshshirke.site) | 💻 Backend & Cloud Enthusiast | 🤖 ML Explorer  
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Postgraduate in **MCA**  
-- 💻 Strong foundation in **C, C++, C#, .NET, HTML, CSS, Java, Python**  
-- ☁️ Enthusiastic about **AWS, Cloud Computing, and Linux systems**  
-- 🎮 Fun fact: I can talk endlessly about FPS games!  
+## 👨‍💻 About Me  
+I’m a developer who loves building **scalable backend systems**, experimenting with **machine learning**, and tinkering with **Linux and cloud infrastructure**. My experience ranges from managing esports game servers to crafting intelligent models and utilities that solve real problems.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Expertise  
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">  
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">  
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">  
-
-</div>
+- **Programming** → PHP, Python, Golang, C#, JavaScript  
+- **Backend & Databases** → REST APIs, MySQL  
+- **Cloud & DevOps** → AWS, Azure, Linux (Ubuntu), Bash, SSH  
+- **Machine Learning** → OpenCV, LSTM, LLaMA, Scikit-learn, NumPy, Pandas  
+- **Tools** → GitHub, VS Code, Composer, cPanel  
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **Event Registration Portal** – Web-based platform for event management and registrations  
-- 🖥️ **Discord Bots** – Custom automation bots with useful commands and integrations  
-- ⚡ **Standby Memory Cleaner** – Lightweight system utility project  
+## 📌 Featured Projects  
 
-*(Check my pinned repositories for details!)*  
+🔹 **Behavior Prediction (ML)** – Built a model combining **computer vision + sequence models** to predict human behavior patterns.  
+🔹 **Food Delivery Platform** – End-to-end backend with **real-time order tracking, payments, and MySQL persistence**.  
+🔹 **Remote Desktop Control** – ASP.NET Core app to control system actions (**shutdown, lock, volume**) over LAN.  
+🔹 **QR Attendance System** – **QR-based live attendance** solution for events and classrooms.  
+🔹 **Discord-DB Bot** – Python bot integrated with **MySQL** for on-demand data retrieval.  
+🔹 **System Utilities** – From a **memory cleaner in C#** to secure **hardware-ID based chat apps**.  
+
+👉 Check pinned repos for more!  
+
+---
+
+## 💼 Experience Snapshot  
+
+**Game Server Manager @ XTZ (AWS & Rooter)**  
+- Delivered **99% uptime** on AWS-hosted esports servers.  
+- Automated deployments with **Bash**, cutting setup time by 40%.  
+- Hardened Linux servers with performance and security optimizations.  
+- Supported live esports events with **resilient infrastructure**.  
 
 ---
 
-## 📫 Connect with Me
-- 🌐 Portfolio: [Your Website Link Here]  
-- 💼 LinkedIn: [Your LinkedIn Profile Here]  
-- 📧 Email: [Your Email Here]  
+## 🎮 Beyond Code  
+
+Outside work, I’m often:  
+- Exploring Linux internals & backend optimizations  
+- Gaming (mostly FPS 🕹️)  
+- Biking & camping in the wild  
 
 ---
-⭐️ From [Harsh Shirke](https://github.com/shirkeharsh)
+
+📬 **Let’s Connect**  
+🌐 [Portfolio](https://harshshirke.site) | 💼 [LinkedIn](#) | 📧 [Email](#)  
