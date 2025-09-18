@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Harsh Shirke</h1>
+<h1 align="center">👋 Hi, I'm Harsh</h1>
 <p align="center">
   🌐 <a href="https://hrshshirke.site">hrshshirke.site</a> |
   🖥️ Polyglot Developer |
