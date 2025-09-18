@@ -1,57 +1,61 @@
-<!-- Banner -->
 <h1 align="center">👋 Hi, I'm Harsh Shirke</h1>
 <p align="center">
-  🌐 <a href="https://hrshshirke.site">harshshirke.site</a> |
-  💻 Backend & Linux Enthusiast |
-  🤖 ML Explorer
+  🌐 <a href="https://hrshshirke.site">hrshshirke.site</a> |
+  🖥️ Polyglot Developer |
+  🤖 ML & LLM Enthusiast
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-I’m a developer passionate about building **scalable backend systems**, exploring **machine learning**, and diving deep into **Linux & cloud infrastructure**.  
-From managing **esports game servers** with AWS to developing **ML-driven applications**, I enjoy solving challenging problems and delivering reliable solutions.  
+## 👨‍💻 About Me
+I’m a **Polyglot Developer** with a passion for **backend systems, cloud infrastructure, and machine learning**.  
+I build **scalable systems**, craft **interactive applications**, and experiment with **LLMs, PyTorch models, and automation tools**.  
 
 ---
 
-## 🚀 Tech Expertise  
+## 🚀 Tech Stack
 
-<div align="center">
+### Programming Languages
+- PHP · Python · Golang · C# · Java · C++ · JavaScript · HTML · CSS · Bash  
 
-| Domain | Skills |
-|--------|---------|
-| **Programming** | PHP · Python · Golang · C# · JavaScript |
-| **Backend & DB** | REST APIs · MySQL |
-| **Cloud & DevOps** | AWS · Azure · Linux (Ubuntu) · Bash · SSH |
-| **Machine Learning** | OpenCV · LSTM · LLaMA · Scikit-learn · NumPy · Pandas |
+### Backend & Databases
+- REST APIs · MySQL · PostgreSQL  
 
-</div>
+### Cloud & DevOps
+- AWS · Azure · Linux (Ubuntu) · Docker · SSH · CI/CD  
+
+### Machine Learning & LLMs
+- PyTorch · OpenCV · LSTM · LLaMA · Transformers · Scikit-learn · NumPy · Pandas  
 
 ---
 
-## 💼 Experience Snapshot  
+## 💼 Experience
 
 **Game Server Manager @ XTZ (AWS & Rooter)**  
-- Ensured **99% uptime** on AWS-hosted esports servers.  
-- Automated deployments with **Bash**, reducing setup time by 40%.  
-- Strengthened Linux servers with performance + security best practices.  
-- Supported live esports events with **scalable infrastructure**.  
+- Maintained **99% uptime** on AWS-hosted esports servers.  
+- Automated deployments using **Bash**, reducing setup time by 40%.  
+- Hardened Linux servers for **performance & security**.  
+- Supported live esports events with **robust infrastructure**.  
 
 ---
 
-## 🎮 Beyond Code  
+## 🎮 Interests
 
-Outside of work, I love:  
-- 🐧 Linux tinkering & backend experiments  
-- 🎮 Gaming (FPS fan!)  
-- 🚴 Mountain biking & camping  
+- Linux tinkering & backend experiments  
+- Gaming (FPS enthusiast)  
+- Mountain biking & camping  
 
 ---
 
-## 📬 Let’s Connect  
+## 📬 Connect with Me
 
 <p align="center">
   <a href="https://hrshshirke.site"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/harsh-shirke-3a4491116/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:harshshirke0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+
+---
+
+## ⚡ Fun Fact
+I can talk **24/7 about FPS games**!!
