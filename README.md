@@ -1,6 +1,6 @@
 # Harsh Shirke  
 
-🌐 [harshshirke.site](https://harshshirke.site) | 💻 Backend & Cloud Enthusiast | 🤖 ML Explorer  
+🌐 [harshshirke.site](https://harshshirke.site) | 💻 Backend & Linux Enthusiast | 🤖 ML Explorer  
 
 ---
 
@@ -15,20 +15,6 @@ I’m a developer who loves building **scalable backend systems**, experimenting
 - **Backend & Databases** → REST APIs, MySQL  
 - **Cloud & DevOps** → AWS, Azure, Linux (Ubuntu), Bash, SSH  
 - **Machine Learning** → OpenCV, LSTM, LLaMA, Scikit-learn, NumPy, Pandas  
-- **Tools** → GitHub, VS Code, Composer, cPanel  
-
----
-
-## 📌 Featured Projects  
-
-🔹 **Behavior Prediction (ML)** – Built a model combining **computer vision + sequence models** to predict human behavior patterns.  
-🔹 **Food Delivery Platform** – End-to-end backend with **real-time order tracking, payments, and MySQL persistence**.  
-🔹 **Remote Desktop Control** – ASP.NET Core app to control system actions (**shutdown, lock, volume**) over LAN.  
-🔹 **QR Attendance System** – **QR-based live attendance** solution for events and classrooms.  
-🔹 **Discord-DB Bot** – Python bot integrated with **MySQL** for on-demand data retrieval.  
-🔹 **System Utilities** – From a **memory cleaner in C#** to secure **hardware-ID based chat apps**.  
-
-👉 Check pinned repos for more!  
 
 ---
 
@@ -52,4 +38,4 @@ Outside work, I’m often:
 ---
 
 📬 **Let’s Connect**  
-🌐 [Portfolio](https://harshshirke.site) | 💼 [LinkedIn](#) | 📧 [Email](#)  
+🌐 [Portfolio](https://harshshirke.site) | 💼 [LinkedIn](https://www.linkedin.com/in/harsh-shirke-3a4491116/) | 📧 [Email](harshshirke0@gmail.com)  
