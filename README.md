@@ -16,7 +16,7 @@ Building AI-powered applications, automation tools, and modern software.
 
 I'm a software developer focused on building practical, scalable, and reliable software. My interests span artificial intelligence, machine learning, backend systems, cloud infrastructure, automation, and cross-platform application development.
 
-I enjoy turning ideas into products that are efficient, maintainable, and designed with a strong emphasis on user experience.
+I enjoy turning ideas into products that are efficient, maintainable, and designed with a strong emphasis on user experience. - Chatgpt 
 
 ---
 
