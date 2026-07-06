@@ -5,14 +5,6 @@
   🤖 ML & LLM Enthusiast
 </p>
 
----
-
-## 👨‍💻 About Me
-I’m a **Polyglot Developer** with a passion for **backend systems, cloud infrastructure, and machine learning**.  
-I build **scalable systems**, craft **interactive applications**, and experiment with **LLMs, PyTorch models, and automation tools**.  
-
----
-
 ## 🚀 Tech Stack
 
 ### Programming Languages
