@@ -11,7 +11,6 @@
 
   <p align="center">
     <a href="https://threeten.site"><img src="https://img.shields.io/badge/Website-threeten.site-0d1117?style=for-the-badge&logo=safari&logoColor=007AFF" alt="Website" /></a>
-    <a href="https://github.com/shirkeharsh"><img src="https://img.shields.io/badge/GitHub-shirkeharsh-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/harsh-shirke-3a4491116/"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Shirke-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
     <a href="mailto:harshshirke0@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   </p>
