@@ -74,12 +74,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirkeharsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=30D158&icon_color=FF2D55&text_color=9BA3B5" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirkeharsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=30D158&text_color=9BA3B5" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shirkeharsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=30D158&icon_color=FF2D55&text_color=9BA3B5" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shirkeharsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=30D158&text_color=9BA3B5" height="165" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 12px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirkeharsh&theme=tokyonight&hide_border=true&background=0d1117&ring=30D158&fire=FF2D55&currStreakLabel=30D158" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shirkeharsh&theme=tokyonight&hide_border=true&background=0d1117&ring=30D158&fire=FF2D55&currStreakLabel=30D158" alt="GitHub Streak" />
 </div>
 
 ---
