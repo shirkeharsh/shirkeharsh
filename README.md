@@ -2,7 +2,7 @@
 
   <!-- Dynamic Animated SVG Header Banner -->
   <a href="https://threeten.site">
-    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=700&size=30&duration=3000&pause=1000&color=F5F7FA&center=true&vCenter=true&multiline=false&width=620&height=70&lines=Hi%2C+I'm+Harsh+Shirke+%E2%9C%A8;Building+Native+macOS+Apps+%26+AI+Systems;Founder+at+ThreeTen+%E2%80%A2+Creator+of+Mooziac" alt="Harsh Shirke Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=F5F7FA&center=true&vCenter=true&multiline=false&width=800&height=70&lines=Hi%2C+I'm+Harsh+Shirke+%E2%9C%A8;Building+Native+macOS+Apps+%26+AI+Systems;Founder+at+ThreeTen+%E2%80%A2+Creator+of+Mooziac" alt="Harsh Shirke Typing Banner" />
   </a>
 
   <p align="center">
