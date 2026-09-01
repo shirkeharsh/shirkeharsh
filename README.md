@@ -54,7 +54,7 @@
 
 #### Core Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,py,go,ts,js,cpp,c,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=swift,py,go,ts,js,cs,cpp,c,bash&theme=dark" alt="Languages" />
 </p>
 
 #### AI, Systems & Cloud Infrastructure
