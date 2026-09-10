@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Systems Engineer • Native macOS Architect • AI & Automation Builder</strong>
+    <strong>Systems Engineer • Native macOS Architect • AI & Automation Developer</strong>
   </p>
 
   <p align="center">
